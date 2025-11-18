@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ATF1970
 - 👀 I’m interested in ... media automation and the cinema experience
 - 🌱 I’m currently learning ... docker and portainer
-- 💞️ I’m looking to collaborate on ... more testign and using that coding
+- 💞️ I’m looking to collaborate on ... more testing and learning to use portainer
 - 📫 How to reach me ... atf@sky.com
 
 <!---
